@@ -11,7 +11,7 @@ h2
 
 h3
 {
-	color: yellowgreen;
+	color: darkred;
 }
 
 h4
@@ -26,14 +26,14 @@ h5
 
 h6
 {
-   color:darkblue;
+   color: yellowgreen;
 
 }
 
-.welcome:hover {
-   color: deepskyblue;
+.page4:hover {
+   color:  darkblue;
 }
 
 *{
-	background-color: black;
+	background-color: black
 }
