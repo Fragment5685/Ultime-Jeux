@@ -1,0 +1,39 @@
+h1
+{
+	color: blue;
+
+}
+
+h2
+{
+	color: mediumpurple;
+}
+
+h3
+{
+	color: yellowgreen;
+}
+
+h4
+{
+	color: red;
+}
+
+h5
+{
+	color: yellow;
+}
+
+h6
+{
+   color:darkblue;
+
+}
+
+.welcome:hover {
+   color: deepskyblue;
+}
+
+*{
+	background-color: black;
+}

@@ -1,0 +1,39 @@
+h1
+{
+	color: blue;
+
+}
+
+h2
+{
+	color: mediumpurple;
+}
+
+h3
+{
+	color: darkred;
+}
+
+h4
+{
+	color: red;
+}
+
+h5
+{
+	color: yellow;
+}
+
+h6
+{
+   color: yellowgreen;
+
+}
+
+.page4:hover {
+   color:  darkblue;
+}
+
+*{
+	background-color: black
+}
